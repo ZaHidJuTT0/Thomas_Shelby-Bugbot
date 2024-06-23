@@ -3,27 +3,27 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349066528353"
-global.ownername = "🐛D A V I D "
-global.ytname = "YT: Hacktivist Hive"
-global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Nigeria"
+global.ownernomer = "923288330026"
+global.ownername = "𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙-𝙈𝘿"
+global.ytname = "YT: 𝒁𝒊𝙙𝒊𝒊-𝑫𝙚𝙘𝙚𝙣𝙩-𝕭𝐎𝐘"
+global.socialm = "GitHub: ZaHidJuTT0"
+global.location = "Pakistan"
 
-global.ownernumber = '2349066528353'  //creator number
-global.ownername = '🐛D A V I D' //owner name
-global.botname = 'Thomas Shelby ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '923288330026'  //creator number
+global.ownername = '𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙-𝙈𝘿' //owner name
+global.botname = '`𓆩𝐌𝐫ͥ𝒔ᷟ,𝐙፝፝֟֟𝒊𝙙𝒊𝒊𓆪`' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David Cyril\n\nContact: +2349066528353'
+global.packname = '穆罕默德  ̶ ᷦ ̶ͥ ͩ ̶ͥ ̶ͥ🩵̶³̶🪽'
+global.author = 'David Cyril\n\nContact: +923288330026'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🔖'
 global.wm = "Github DeeCeeXxx."
 global.wm = "Github DeeCeeXxx."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://www.instagram.com/zidii_decent_boy?igsh=MXVobjVlMXBrYzcxbg=='
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
